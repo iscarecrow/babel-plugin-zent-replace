@@ -1,5 +1,3 @@
-// the repo is to solve this question
-// https://github.com/youzan/zent/issues/200
 var t = require('babel-types');
 var chalk = require('chalk');
 
@@ -24,7 +22,7 @@ function log (value) {
     );
 }
 
-module.exports =  function() {
+module.exports = function() {
   return {
     visitor: {
       CallExpression(path, state) {

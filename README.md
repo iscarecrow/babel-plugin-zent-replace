@@ -19,9 +19,7 @@ config babel, write name to .babelrc file
 ```json
 {
   "plugins": [
-    ['zent-replace', {
-      
-    }]
+    ["zent-replace"]
   ]
 }
 ```
