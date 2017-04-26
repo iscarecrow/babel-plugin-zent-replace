@@ -15,9 +15,9 @@ function log (value) {
       "\n" +
       "====================================" + "\n" +
       "import * as Zent from 'zent'"   + "\n" +
-      "import XX from 'zent-xx" + "\n" +
+      "import XX from 'zent-xx'" + "\n" +
       "const zent = require('zent')" + "\n" +
-      "以上三种import方式废弃，请使用 import { XX } from 'zent" + "\n" +
+      "以上三种import方式废弃，请使用 import { XX } from 'zent'" + "\n" +
       "=========================================" + "\n" )
     );
 }
