@@ -1,6 +1,6 @@
 {
   "name": "babel-plugin-zent-replace",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "it's a babel plugin",
   "main": "index.js",
   "scripts": {
